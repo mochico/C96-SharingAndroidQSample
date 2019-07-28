@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">C96-SharingAndroidQSample</string>
+    <string name="sending_message">Sending a message</string>
+    <string name="to">To:</string>
+    <string name="send">Send</string>
+    <string name="title_message">Message:</string>
+    <string name="sharing_message">"ダイレクトシェアで送るメッセージ"</string>
+    <string name="sharing_preview_title">"プレビュータイトル"</string>
+    <string name="ok">OK</string>
+</resources>
